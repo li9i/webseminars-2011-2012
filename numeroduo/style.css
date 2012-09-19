@@ -1,0 +1,119 @@
+body			{background-color:#2d45ac;}
+
+div#header 		{background: white;
+			border: 2px  black;
+			border-style:solid;
+			width:1123px;
+			margin-bottom:10px;
+			margin-left: auto;
+    			margin-right: auto;}
+
+div#header h1		{margin-bottom:20px;
+			margin-left: 30px;	
+			font-family:arial;
+			}
+
+div#header h2		{margin-bottom:30px;
+			margin-left: 30px;
+			font-family:arial;}
+
+div#header strong 	{background-color:#fc6;
+			padding-top:4px;
+			padding-bottom:3px;
+			padding-left:3px;
+			padding-right:3px;
+			font-size:9pt;}
+
+div#header p 		{font-family: serif;
+  			font-weight: bold;
+			text-transform: uppercase;
+			color:#333;
+			line-height:70%;
+			margin-left: 30px;
+			margin-bottom:16px;
+			font-size:9pt;}
+
+
+#header a:link 		{border-bottom:1px dashed;
+			text-decoration: none;}
+			
+
+
+
+.romance		{color: #ac2d2d;}
+.sarcasm		{color: #30ac2d;}
+.math			{color: #2d45ac;}
+.language 		{color: #e99613;}
+
+
+
+
+
+
+
+
+div#comic 		{background: white;
+			text-align:center;
+			border: 2px  black;
+			border-style:solid;
+			width:1123px;
+
+			margin-left: auto;
+    			margin-right: auto;
+			padding-bottom:11px;
+			font-family:arial;}
+
+
+
+
+
+
+div#comic p 		{font-style: italic;
+			line-height:20%;
+			font-size:13pt;}
+
+div#comic img		{margin-bottom:18px;}
+
+
+
+
+
+
+
+
+
+
+
+#menu a:link		{color:#000000;
+			font-family:arial;
+			line-height:170%;
+			border-bottom:1px dotted;
+			text-decoration: none;
+			}
+
+
+
+
+
+
+
+
+
+ul#menu 		{
+			background-image: url(menu.png);
+           		background-repeat: no-repeat;
+			background-position: right bottom;
+			background-color:#eee;
+			border: 2px  black;
+			border-style:solid;
+			width:1083px;
+			margin-top:15px;
+			margin-bottom:15px;
+			margin-left: auto;
+    			margin-right: auto;
+			padding-bottom:40px;
+			padding-top:40px; 
+			font-size:15pt;}
+
+
+

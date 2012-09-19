@@ -1,0 +1,65 @@
+echo "\n This page was created in ".$totaltime." seconds"; 
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <title>OP form</title>
+        <style type="text/css">
+            body{
+                background: #9af;
+            }
+            input{
+                font-size: 1em;
+                margin-bottom: 5px;
+                padding: 4px;
+                text-align: center;
+            }
+            input[type=submit]{
+                background: white;
+                border-radius: 7px;
+            }
+            form{
+                float: left;
+                width: 300px;
+            }
+			
+			#container{margin:auto;}
+        </style>
+    </head>
+    <body>
+		<div id="container">
+        <h1>Please fill out the form</h1>
+        <form method="get" action="index1.php">
+            <div>Operand a<input type="text" name="a" /></div>
+            <div>Operator
+			
+			<select  name="oper" >
+				<option value="add">+</option>
+				<option value="sub">-</option>
+				<option value="mul">*</option>
+				<option value="div">/</option>
+				<option value="pow">power</option>
+				<option value="sqrt">square root of a</option>
+				<option value="conc">concatenate</option>
+				<option value="mulconc">multiconcatenate</option>
+				<option value="find">find b in a</option>.
+				<option value="length">length of a</option>
+				<option value="upper">make a uppercased</option>
+				<option value="size">size of a array</option>
+				<option value="sum">sum of a array</option>	
+				<option value="fibonacci">fibonacci</option>
+				<option value="prime">prime</option>				
+			</select>
+			</div>
+			
+            <div>Operand b<input type="text" name="b" /></div>
+
+            <div><input type="submit" value="send!" /></div>
+        </form>
+		</div>
+    </body>
+</html>

@@ -1,0 +1,219 @@
+body			{
+				font-family:sans-serif;
+    				margin:0px;
+				}
+				
+div#containerall {
+				margin:0;
+
+				margin-right:auto;
+				margin-left:auto;
+				width:869px;
+}
+				
+div#header		{
+				background:#b52d22;
+				color:#FFF;
+				height:60px;
+				margin:0;
+				padding:0;
+				border-top:0;
+
+
+
+
+
+				}
+
+div#header p 	{		line-height:60px;
+				margin-left:40px;
+				font-size:24pt;
+				
+				}
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+div#comic		{
+				
+				background:#c6e4ea;
+				height:340px;
+				color:#b52d22;
+				text-align:justify;
+
+
+				}
+				
+				
+				
+div#comic h1	{
+				font-size:16pt;
+				margin-top:0px;
+				padding-top:75px;
+				width:450px;
+				margin-left:40px;
+
+				}
+				
+				
+div#comic h4	{
+
+				width:450px;
+				margin-left:40px;
+				padding-top:10px;
+				font-size:12pt;
+				font-weight:normal;
+				
+
+				}
+				
+				
+div#comic img 	{
+				position:relative;
+				bottom:-53px;
+				float:right; 
+				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+div#container		
+				{
+				width:867px;
+				height:340px;
+				border: 1px  #DDD;
+				border-style:solid;
+				margin:auto;
+				
+				}
+				
+div#leftnav		{
+				float:left;
+				max-width:253px;
+				height:320px;
+				
+				border-right: 1px  #DDD;
+				border-left:0px;
+				border-top:0px;
+				border-bottom: 0px;
+				border-style:solid;
+				
+				text-align:justify;
+
+				
+				
+				padding-left:18px;
+				padding-right:18px;
+				padding-top:20px;
+				}	
+
+
+div#leftnav h1 {font-size:11pt;}				
+div#rightnav h1 {font-size:11pt;}				
+div#middlenav h1 {font-size:11pt;}	
+
+div#leftnav p {font-size:9pt;}				
+div#rightnav p {font-size:9pt;}				
+div#middlenav p {font-size:9pt;}
+
+div#leftnav h4 {font-size:8pt; color:#551A8B;}				
+div#rightnav h4 {font-size:8pt;color:#551A8B;}				
+div#middlenav h4 {font-size:8pt;color:#551A8B;	}	
+			
+div#rightnav	{
+				float:right;
+				max-width:253px;
+				height:320px;
+				
+				text-align:justify;
+
+				border-left: 1px  #DDD;
+				border-right:0px;
+				border-top:0px;
+				border-bottom: 0px;
+				border-style:solid;
+
+				
+				
+				padding-left:18px;
+				padding-right:18px;
+				padding-top:20px;
+				
+				margin:auto;
+
+
+				}	
+
+
+div#middlenav	{
+				width:249px;
+				height:320px;
+				text-align:justify;
+
+				margin:auto;
+				padding-top:20px;
+
+				}				
+				
+				
+
+
+div#footer	p 	{
+				color:#AAA; 
+
+				text-align:center;
+				}
+
+
+
+				
+				
+
+
+				
+
+
+
+			
+			
+				
+
